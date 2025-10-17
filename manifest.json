@@ -1,0 +1,22 @@
+{
+  "name": "Inventario Pro",
+  "short_name": "Inventario",
+  "description": "Aplicación de Gestión de Activos e Inventarios Pro v7.19",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
